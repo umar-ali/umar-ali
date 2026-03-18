@@ -25,3 +25,6 @@ Software Developer focused on building scalable backend services and exploring A
 
 - LinkedIn: [www.linkedin.com/in/umar-ali-ahamed-2001](www.linkedin.com/in/umar-ali-ahamed-2001)
 - Email: [aligani619@gmail.com](aligani619@gmail.com)
+
+## CV
+[Download CV](https://drive.google.com/file/d/1GcByF7-qm2bmgyra2xd2Wv8cOgG5Pk25/view?usp=drive_link)
