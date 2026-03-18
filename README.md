@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hey, I'm Umar 👋
 
-<!--
-**umar-ali/umar-ali** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Developer focused on building scalable backend services and exploring AI-powered solutions.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 Interests
+
+- Generative AI & LLM applications  
+- Backend system design  
+- API architecture & scalability  
+- Building AI-integrated web services  
+
+---
+
+## 🎯 Current Focus
+
+- Learning and applying GenAI in real-world use cases  
+- Improving backend performance and design patterns  
+- Writing clean, maintainable, and testable code  
+
+---
+
+## 🤝 Connect
+
+- LinkedIn: [www.linkedin.com/in/umar-ali-ahamed-2001](www.linkedin.com/in/umar-ali-ahamed-2001)
+- Email: [aligani619@gmail.com](aligani619@gmail.com)
